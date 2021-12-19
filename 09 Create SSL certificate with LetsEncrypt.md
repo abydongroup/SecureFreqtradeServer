@@ -19,11 +19,9 @@ The certbot is an script that automatically downloads and installs the security 
 To install the packages use:
 
 ```
-sudo apt update
+sudo apt update -y sudo apt upgrade -y
 
-sudo apt upgrade
-
-sudo apt install certbot python3-certbot-nginx
+sudo apt install certbot python3-certbot-nginx -y
 ```
 
 ## Run the certbot for the first time
