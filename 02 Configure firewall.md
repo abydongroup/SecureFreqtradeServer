@@ -55,3 +55,5 @@ sudo ufw status numbered
 sudo ufw delete 2
 ```
 Finally the install script 
+
+
