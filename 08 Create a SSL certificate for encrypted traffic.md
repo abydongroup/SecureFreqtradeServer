@@ -25,7 +25,7 @@ sudo openssl dhparam -out /etc/nginx/dhparam.pem 4096
 ## Create files that are going to be used by nginx
 
 Create a new nginx configuration snippet in  
-``/etc/nginx/snippets``
+``cd /etc/nginx/snippets``
 
 ```
 sudo nano /etc/nginx/snippets/self-signed.conf
