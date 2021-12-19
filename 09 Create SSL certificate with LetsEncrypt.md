@@ -23,7 +23,7 @@ sudo apt update
 
 sudo apt upgrade
 
-apt install certbot python3-certbot-nginx
+sudo apt install certbot python3-certbot-nginx
 ```
 
 ## Run the certbot for the first time
